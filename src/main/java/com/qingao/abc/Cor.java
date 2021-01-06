@@ -8,6 +8,6 @@ public class Cor {
 	
 	@RequestMapping("aa")
 	public String aa(){
-		return "aa";
+		return "sb";
 	}
 }
